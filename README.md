@@ -1,4 +1,4 @@
-# Virtual Piano Studio - With History
+# Virtual Piano Studio
 
 **Virtual Piano Studio** adalah aplikasi instrumen piano virtual sederhana berbasis Python dan Pygame. Aplikasi ini memungkinkan pengguna memainkan nada piano menggunakan keyboard komputer atau klik mouse, sekaligus mencatat aktivitas sesi bermain ke dalam file riwayat.
 
